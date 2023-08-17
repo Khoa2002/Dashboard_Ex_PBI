@@ -1,2 +1,2 @@
-# DataAnalystProject
-Some projects demonstrate my skills and knowledge in Excel, Power BI,... and dashboard creation skills.
+# PowerBIProject
+Some projects demonstrate my skills and knowledge in Power BI
